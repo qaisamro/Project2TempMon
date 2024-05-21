@@ -1,0 +1,37 @@
+2024-04-25 18:07:19.251 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 27ms.
+2024-04-25 18:07:19.378 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 24ms.
+2024-04-25 18:07:19.509 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 33ms.
+2024-04-25 18:07:19.580 [warning] Creation of workbench contribution 'workbench.contrib.editorStatus' took 33ms.
+2024-04-25 18:07:19.658 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 68ms.
+2024-04-25 18:07:23.998 [info] Started local extension host with pid 4481.
+2024-04-25 18:07:46.438 [info] Extension host (LocalProcess pid: 4481) is unresponsive.
+2024-04-25 18:07:48.999 [info] Extension host (LocalProcess pid: 4481) is responsive.
+2024-04-25 18:07:52.459 [info] Extension host (LocalProcess pid: 4481) is unresponsive.
+2024-04-25 18:07:53.022 [info] Extension host (LocalProcess pid: 4481) is responsive.
+2024-04-25 18:07:55.068 [info] Extension host (LocalProcess pid: 4481) is unresponsive.
+2024-04-25 18:08:01.182 [info] Extension host (LocalProcess pid: 4481) is responsive.
+2024-04-25 18:08:34.089 [info] Extension host (LocalProcess pid: 4481) is unresponsive.
+2024-04-25 18:08:37.544 [info] Extension host (LocalProcess pid: 4481) is responsive.
+2024-04-25 18:08:59.634 [info] [perf] Render performance baseline is -1ms
+2024-04-25 18:09:00.003 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 260ms.
+2024-04-25 18:40:47.665 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-04-25 18:49:07.150 [info] Extension host (LocalProcess pid: 4481) is unresponsive.
+2024-04-25 18:49:07.155 [info] Extension host (LocalProcess pid: 4481) is responsive.
+2024-04-25 18:49:20.382 [error] Unable to read file '/home/qaishamd2/lab network/pybrowser.py' (Error: Unable to resolve nonexistent file '/home/qaishamd2/lab network/pybrowser.py'): Error: Unable to read file '/home/qaishamd2/lab network/pybrowser.py' (Error: Unable to resolve nonexistent file '/home/qaishamd2/lab network/pybrowser.py')
+    at n.F (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19968)
+    at n.D (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async l.M (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:42596)
+    at async l.readStream (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:42353)
+    at async L.Cb (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:13615)
+    at async L.resolve (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:12062)
+    at async vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:38464
+2024-04-25 19:00:12.103 [error] Unable to read file '/home/qaishamd2/project 1 /pyhttpserver.py' (Error: Unable to resolve nonexistent file '/home/qaishamd2/project 1 /pyhttpserver.py'): Error: Unable to read file '/home/qaishamd2/project 1 /pyhttpserver.py' (Error: Unable to resolve nonexistent file '/home/qaishamd2/project 1 /pyhttpserver.py')
+    at n.F (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19968)
+    at n.D (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19763)
+    at async l.M (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:42596)
+    at async l.readStream (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:42353)
+    at async L.Cb (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:13615)
+    at async L.resolve (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2359:12062)
+    at async vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2370:38464
+2024-04-26 10:09:59.478 [info] Extension host (LocalProcess pid: 4481) is unresponsive.
+2024-04-26 10:10:00.694 [info] Extension host (LocalProcess pid: 4481) is responsive.

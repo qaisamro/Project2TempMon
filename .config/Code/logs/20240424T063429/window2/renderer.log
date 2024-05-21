@@ -1,0 +1,9 @@
+2024-04-24 06:36:38.503 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 41ms.
+2024-04-24 06:36:38.693 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 83ms.
+2024-04-24 06:36:38.890 [warning] Creation of workbench contribution 'workbench.contrib.notebook' took 37ms.
+2024-04-24 06:36:38.891 [warning] Creation of workbench contribution 'workbench.contrib.textMateTokenizationInstantiator' took 51ms.
+2024-04-24 06:36:38.924 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 25ms.
+2024-04-24 06:36:38.931 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 25ms.
+2024-04-24 06:36:40.964 [info] Started local extension host with pid 5228.
+2024-04-24 06:36:53.380 [info] [perf] Render performance baseline is 417ms
+2024-04-25 07:23:37.544 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

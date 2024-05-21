@@ -1,0 +1,18 @@
+2024-04-25 18:00:22.356 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-25 18:00:49.336 [info] [Info  - 6:00:48 PM] (4048) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-25 18:00:49.342 [info] [Info  - 6:00:49 PM] (4048) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-25 18:00:50.188 [info] [Info  - 6:00:50 PM] (4048) Starting service instance "<default>"
+2024-04-25 18:00:50.710 [info] [Info  - 6:00:50 PM] (4048) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-25 18:00:50.714 [info] [Info  - 6:00:50 PM] (4048) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-25 18:00:52.422 [info] [Info  - 6:00:52 PM] (4048) Assuming Python version 3.10.12.final.0
+2024-04-25 18:00:55.792 [info] [Info  - 6:00:55 PM] (4048) No source files found.
+2024-04-25 18:00:57.577 [info] [Info  - 6:00:57 PM] (4048) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-25 18:00:57.604 [info] [Info  - 6:00:57 PM] (4048) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-25 18:00:58.123 [info] [Info  - 6:00:58 PM] (4048) Assuming Python version 3.10.12.final.0
+2024-04-25 18:01:00.127 [info] [Info  - 6:01:00 PM] (4048) No source files found.
+2024-04-25 18:01:03.184 [info] [Info  - 6:01:03 PM] (4048) [FG] Long operation: parsing: file:///home/qaishamd2/lab%20network/pybrowser.py (2471ms)
+2024-04-25 18:01:06.906 [info] [Info  - 6:01:06 PM] (4048) [FG] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (3591ms)
+2024-04-25 18:01:10.711 [info] [Info  - 6:01:10 PM] (4048) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-25 18:01:10.743 [info] [Info  - 6:01:10 PM] (4048) Background analysis(1) started
+2024-04-25 18:01:18.645 [info] [Info  - 6:01:18 PM] (4048) [BG(1)] Long operation: parsing: file:///home/qaishamd2/lab%20network/pybrowser.py (4998ms)
+2024-04-25 18:01:29.030 [info] [Info  - 6:01:29 PM] (4048) [BG(1)] Long operation: SemanticTokens range 0:0 - 68:24 at file:///home/qaishamd2/lab%20network/pybrowser.py (15392ms)

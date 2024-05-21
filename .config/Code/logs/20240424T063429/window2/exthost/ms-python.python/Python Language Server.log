@@ -1,0 +1,17 @@
+2024-04-24 06:37:07.778 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-24 06:37:10.434 [info] [Info  - 6:37:10 AM] (5311) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-24 06:37:10.436 [info] [Info  - 6:37:10 AM] (5311) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 06:37:10.495 [info] [Info  - 6:37:10 AM] (5311) Starting service instance "<default>"
+2024-04-24 06:37:10.601 [info] [Info  - 6:37:10 AM] (5311) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-24 06:37:10.602 [info] [Info  - 6:37:10 AM] (5311) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-24 06:37:10.879 [info] [Info  - 6:37:10 AM] (5311) Assuming Python version 3.10.12.final.0
+2024-04-24 06:37:11.579 [info] [Info  - 6:37:11 AM] (5311) No source files found.
+2024-04-24 06:37:12.161 [info] [Info  - 6:37:12 AM] (5311) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-24 06:37:12.162 [info] [Info  - 6:37:12 AM] (5311) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-24 06:37:12.320 [info] [Info  - 6:37:12 AM] (5311) Assuming Python version 3.10.12.final.0
+2024-04-24 06:37:12.601 [info] [Info  - 6:37:12 AM] (5311) No source files found.
+2024-04-24 06:37:13.745 [info] [Info  - 6:37:13 AM] (5311) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 06:37:13.753 [info] [Info  - 6:37:13 AM] (5311) Background analysis(1) started
+2024-04-25 07:25:32.574 [info] [Info  - 7:25:32 AM] (5311) [BG(1)] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (3176ms)
+2024-04-25 07:25:38.430 [info] [Info  - 7:25:38 AM] (5311) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/modified_server.py (4819ms)
+2024-04-25 07:25:38.435 [info] [Info  - 7:25:38 AM] (5311) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/modified_server.py (9546ms)

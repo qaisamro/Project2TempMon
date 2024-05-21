@@ -1,0 +1,47 @@
+2024-04-23 08:57:25.920 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-23 08:57:27.719 [info] [Info  - 8:57:27 AM] (40916) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-23 08:57:27.725 [info] [Info  - 8:57:27 AM] (40916) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-23 08:57:27.729 [info] [Info  - 8:57:27 AM] (40916) Starting service instance "lab network"
+2024-04-23 08:57:28.016 [info] [Info  - 8:57:28 AM] (40916) Setting pythonPath for service "lab network": "/bin/python3"
+2024-04-23 08:57:28.016 [info] [Info  - 8:57:28 AM] (40916) Setting environmentName for service "lab network": "3.10.12 (global)"
+2024-04-23 08:57:28.149 [info] [Info  - 8:57:28 AM] (40916) Assuming Python version 3.10.12.final.0
+2024-04-23 08:57:28.322 [info] [Info  - 8:57:28 AM] (40916) Found 2 source files
+2024-04-23 08:57:32.300 [info] [Info  - 8:57:32 AM] (40916) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-23 08:57:32.301 [info] [Info  - 8:57:32 AM] (40916) Background analysis(1) started
+2024-04-23 08:57:33.310 [info] [Info  - 8:57:33 AM] (40916) Indexer background runner(2) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-23 08:57:33.313 [info] [Info  - 8:57:33 AM] (40916) Indexing(2) started
+2024-04-23 08:57:36.725 [info] [Info  - 8:57:36 AM] (40916) [IDX(2)] Long operation: scan packages file:///home/qaishamd2/lab%20network (3318ms)
+2024-04-23 08:57:36.725 [info] [Info  - 8:57:36 AM] (40916) scanned(2) 95 files over 1 exec env
+2024-04-23 08:57:42.637 [info] [Info  - 8:57:42 AM] (40916) [IDX(2)] Long operation: indexing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stubs/networkx/networkx/__init__.pyi (2967ms)
+2024-04-23 08:57:45.913 [info] [Info  - 8:57:45 AM] (40916) [IDX(2)] Long operation: index execution environment file:///home/qaishamd2/lab%20network (7121ms)
+2024-04-23 08:57:45.963 [info] [Info  - 8:57:45 AM] (40916) [IDX(2)] Long operation: index packages file:///home/qaishamd2/lab%20network (7200ms)
+2024-04-23 08:57:45.963 [info] [Info  - 8:57:45 AM] (40916) indexed(2) 46 files over 1 exec env
+2024-04-23 08:57:46.164 [info] [Info  - 8:57:46 AM] (40916) Indexing finished(2).
+2024-04-24 06:06:46.207 [info] [Info  - 6:06:45 AM] (40916) [BG(1)] Long operation: parsing: file:///home/qaishamd2/lab%20network/client.py (3092ms)
+2024-04-24 06:06:50.286 [info] [Info  - 6:06:50 AM] (40916) Indexer background runner(3) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (refresh)
+2024-04-24 06:06:50.287 [info] [Info  - 6:06:50 AM] (40916) Indexing(3) started
+2024-04-24 06:06:56.204 [info] [Info  - 6:06:56 AM] (40916) [BG(1)] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/typing.pyi (3755ms)
+2024-04-24 06:06:57.427 [info] [Info  - 6:06:57 AM] (40916) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/client.py (9076ms)
+2024-04-24 06:06:57.428 [info] [Info  - 6:06:57 AM] (40916) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/client.py (14900ms)
+2024-04-24 06:07:04.591 [info] [Info  - 6:07:04 AM] (40916) [IDX(3)] Long operation: scan packages file:///home/qaishamd2/lab%20network (14223ms)
+2024-04-24 06:07:04.595 [info] [Info  - 6:07:04 AM] (40916) scanned(3) 95 files over 1 exec env
+2024-04-24 06:07:13.959 [info] [Info  - 6:07:13 AM] (40916) indexed(3) 46 files over 1 exec env
+2024-04-24 06:07:14.409 [info] [Info  - 6:07:14 AM] (40916) Indexing finished(3).
+2024-04-24 06:07:29.464 [info] [Info  - 6:07:29 AM] (40916) [BG(1)] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (2113ms)
+2024-04-24 06:07:34.937 [info] [Info  - 6:07:34 AM] (40916) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/client.py (4768ms)
+2024-04-24 06:07:34.943 [info] [Info  - 6:07:34 AM] (40916) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/client.py (8921ms)
+2024-04-24 06:07:37.966 [info] [Info  - 6:07:37 AM] (40916) Indexer background runner(4) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (refresh)
+2024-04-24 06:07:37.967 [info] [Info  - 6:07:37 AM] (40916) Indexing(4) started
+2024-04-24 06:07:42.469 [info] [Info  - 6:07:42 AM] (40916) [IDX(4)] Long operation: scan packages file:///home/qaishamd2/lab%20network (4474ms)
+2024-04-24 06:07:42.473 [info] [Info  - 6:07:42 AM] (40916) scanned(4) 95 files over 1 exec env
+2024-04-24 06:07:45.816 [info] [Info  - 6:07:45 AM] (40916) indexed(4) 46 files over 1 exec env
+2024-04-24 06:07:46.145 [info] [Info  - 6:07:46 AM] (40916) Indexing finished(4).
+2024-04-24 06:11:37.452 [info] [Info  - 6:11:37 AM] (40916) [BG(1)] Long operation: parsing: file:///usr/lib/python3.10/datetime.py (2918ms)
+2024-04-24 06:11:39.344 [info] [Info  - 6:11:39 AM] (40916) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/client.py (7887ms)
+2024-04-24 06:11:39.359 [info] [Info  - 6:11:39 AM] (40916) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/client.py (11720ms)
+2024-04-24 06:11:42.321 [info] [Info  - 6:11:42 AM] (40916) Indexer background runner(5) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (refresh)
+2024-04-24 06:11:42.322 [info] [Info  - 6:11:42 AM] (40916) Indexing(5) started
+2024-04-24 06:11:48.833 [info] [Info  - 6:11:48 AM] (40916) [IDX(5)] Long operation: scan packages file:///home/qaishamd2/lab%20network (6060ms)
+2024-04-24 06:11:49.080 [info] [Info  - 6:11:49 AM] (40916) scanned(5) 96 files over 1 exec env
+2024-04-24 06:11:54.827 [info] [Info  - 6:11:54 AM] (40916) indexed(5) 46 files over 1 exec env
+2024-04-24 06:11:55.049 [info] [Info  - 6:11:55 AM] (40916) Indexing finished(5).

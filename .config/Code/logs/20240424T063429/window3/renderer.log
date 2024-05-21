@@ -1,0 +1,9 @@
+2024-04-24 06:40:28.061 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 40ms.
+2024-04-24 06:40:28.140 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 21ms.
+2024-04-24 06:40:28.926 [info] Started local extension host with pid 5515.
+2024-04-24 06:40:45.533 [info] Extension host (LocalProcess pid: 5515) is unresponsive.
+2024-04-24 06:40:46.021 [info] Extension host (LocalProcess pid: 5515) is responsive.
+2024-04-24 06:40:47.524 [info] [perf] Render performance baseline is 203ms
+2024-04-25 07:02:48.988 [info] Extension host (LocalProcess pid: 5515) is unresponsive.
+2024-04-25 07:02:49.195 [info] Extension host (LocalProcess pid: 5515) is responsive.
+2024-04-25 17:46:18.486 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

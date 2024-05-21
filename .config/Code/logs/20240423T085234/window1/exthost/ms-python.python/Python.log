@@ -1,0 +1,24 @@
+2024-04-23 08:57:21.012 [info] Experiment 'pythonaacf' is active
+2024-04-23 08:57:21.012 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-23 08:57:21.012 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-23 08:57:21.012 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-23 08:57:21.012 [info] Experiment 'pythonTestAdapter' is active
+2024-04-23 08:57:21.176 [info] Default formatter is set to null for workspace /home/qaishamd2/lab network
+2024-04-23 08:57:21.289 [info] Test server listening.
+2024-04-23 08:57:21.376 [info] > conda info --json
+2024-04-23 08:57:21.502 [info] > hatch env show --json
+2024-04-23 08:57:21.502 [info] cwd: ~/lab network
+2024-04-23 08:57:21.581 [info] > pyenv which python
+2024-04-23 08:57:21.581 [info] cwd: ~/lab network
+2024-04-23 08:57:23.904 [info] Found: /bin/python3 --> /bin/python3.10
+2024-04-23 08:57:23.910 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-04-23 08:57:24.134 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-04-23 08:57:24.134 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-04-23 08:57:24.241 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-23 08:57:24.282 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-23 08:57:25.016 [info] Python interpreter path: /bin/python3
+2024-04-23 08:57:27.876 [info] Starting Pylance language server.
+2024-04-23 09:04:03.503 [info] Discover tests for workspace name: lab network - uri: /home/qaishamd2/lab network/server.py
+2024-04-23 09:04:31.265 [info] Discover tests for workspace name: lab network - uri: /home/qaishamd2/lab network/server.py
+2024-04-23 09:11:24.473 [info] Discover tests for workspace name: lab network - uri: /home/qaishamd2/lab network/client.py
+2024-04-23 09:12:11.494 [info] Discover tests for workspace name: lab network - uri: /home/qaishamd2/lab network/client.py

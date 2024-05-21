@@ -1,0 +1,26 @@
+2024-04-23 08:52:40.346 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 29ms.
+2024-04-23 08:52:41.622 [info] Started local extension host with pid 40622.
+2024-04-23 08:52:42.913 [info] Started initializing default profile extensions in extensions installation folder. file:///home/qaishamd2/.vscode/extensions
+2024-04-23 08:52:46.289 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/qaishamd2/.vscode/extensions
+2024-04-23 08:52:55.856 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 370ms.
+2024-04-23 08:52:55.858 [info] [perf] Render performance baseline is 394ms
+2024-04-23 08:53:24.629 [info] Started local extension host with pid 40719.
+2024-04-23 08:53:36.770 [info] [perf] Render performance baseline is 145ms
+2024-04-23 08:53:54.918 [error] Cancelled: Canceled
+    at _.B (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:28974)
+    at async _.z (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:25774)
+    at async Z (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:24704)
+    at async _.query (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:25002)
+    at async oe.queryGallery (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2909:13350)
+    at async Z.Hc (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:23086)
+    at async Z.rc (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:14713)
+    at async vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:13012
+2024-04-23 08:53:55.088 [error] Cancelled: Canceled
+    at _.B (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:28974)
+    at async _.z (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:25774)
+    at async _.getExtensions (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:785:22432)
+    at async oe.getExtensions (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2909:13776)
+    at async Me.Lc (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:25206)
+    at async Me.Uc (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:27892)
+    at async Me.rc (vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:14713)
+    at async vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2845:13012

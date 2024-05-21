@@ -1,0 +1,5 @@
+2024/04/25-18:07:00.021 be1 Recovering log #3
+2024/04/25-18:07:00.023 be1 Level-0 table #5: started
+2024/04/25-18:07:00.032 be1 Level-0 table #5: 141 bytes OK
+2024/04/25-18:07:00.059 be1 Delete type=0 #3
+2024/04/25-18:07:00.074 be1 Delete type=3 #2

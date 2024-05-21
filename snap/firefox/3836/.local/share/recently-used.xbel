@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/qaishamd2/project%201%20/pro.png" added="2024-04-25T22:39:58.636164Z" modified="2024-04-25T22:39:58.636174Z" visited="2024-04-25T22:39:58.636165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-25T22:39:58.636168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qaishamd2/project%201%20/pro.jpeg" added="2024-04-25T22:47:20.890155Z" modified="2024-04-25T22:47:20.890177Z" visited="2024-04-25T22:47:20.890158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-25T22:47:20.890170Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/qaishamd2/project%201%20/dev.jpeg" added="2024-04-25T22:48:16.681691Z" modified="2024-04-25T22:48:16.681706Z" visited="2024-04-25T22:48:16.681694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-04-25T22:48:16.681698Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

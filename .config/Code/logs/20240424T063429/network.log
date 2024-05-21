@@ -1,0 +1,2 @@
+2024-04-24 08:20:03.016 [error] electron #48: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2024-04-24 17:25:27.265 [error] electron #59: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED

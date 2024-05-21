@@ -1,0 +1,13 @@
+2024-04-25 17:59:46.051 [info] Extension host with pid 3882 started
+2024-04-25 17:59:51.111 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-25 17:59:51.368 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-04-25 17:59:53.639 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-25 18:00:04.473 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-25 18:00:06.762 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-25 18:00:07.022 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-25 18:00:07.059 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-25 18:00:08.029 [info] Eager extensions activated
+2024-04-25 18:00:10.258 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-25 18:00:11.199 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-25 18:06:58.224 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-25 18:06:59.041 [info] Extension host with pid 3882 exiting with code 0

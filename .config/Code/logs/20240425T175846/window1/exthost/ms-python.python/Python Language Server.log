@@ -1,0 +1,18 @@
+2024-04-25 18:00:27.439 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-25 18:00:50.626 [info] [Info  - 6:00:50 PM] (4052) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-25 18:00:50.627 [info] [Info  - 6:00:50 PM] (4052) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-25 18:00:51.625 [info] [Info  - 6:00:51 PM] (4052) Starting service instance "<default>"
+2024-04-25 18:00:52.592 [info] [Info  - 6:00:52 PM] (4052) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-25 18:00:52.592 [info] [Info  - 6:00:52 PM] (4052) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-25 18:00:53.040 [info] [Info  - 6:00:53 PM] (4052) Assuming Python version 3.10.12.final.0
+2024-04-25 18:00:55.604 [info] [Info  - 6:00:55 PM] (4052) No source files found.
+2024-04-25 18:00:56.787 [info] [Info  - 6:00:56 PM] (4052) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-25 18:00:56.835 [info] [Info  - 6:00:56 PM] (4052) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-25 18:00:58.196 [info] [Info  - 6:00:58 PM] (4052) Assuming Python version 3.10.12.final.0
+2024-04-25 18:01:00.799 [info] [Info  - 6:01:00 PM] (4052) No source files found.
+2024-04-25 18:01:06.579 [info] [Info  - 6:01:06 PM] (4052) [FG] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (3449ms)
+2024-04-25 18:01:11.033 [info] [Info  - 6:01:11 PM] (4052) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-25 18:01:11.033 [info] [Info  - 6:01:11 PM] (4052) Background analysis(1) started
+2024-04-25 18:01:18.170 [info] [Info  - 6:01:18 PM] (4052) [BG(1)] Long operation: parsing: file:///home/qaishamd2/lab%20network/modified_server.py (4418ms)
+2024-04-25 18:01:20.418 [info] [Info  - 6:01:20 PM] (4052) [BG(1)] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (2188ms)
+2024-04-25 18:01:26.410 [info] [Info  - 6:01:26 PM] (4052) [BG(1)] Long operation: SemanticTokens range 0:0 - 17:48 at file:///home/qaishamd2/lab%20network/modified_server.py (12654ms)

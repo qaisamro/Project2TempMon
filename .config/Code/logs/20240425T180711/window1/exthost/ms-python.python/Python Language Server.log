@@ -1,0 +1,43 @@
+2024-04-25 18:08:04.652 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-25 18:08:23.593 [info] [Info  - 6:08:22 PM] (4557) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-25 18:08:23.614 [info] [Info  - 6:08:23 PM] (4557) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-25 18:08:24.780 [info] [Info  - 6:08:24 PM] (4557) Starting service instance "<default>"
+2024-04-25 18:08:25.102 [info] [Info  - 6:08:25 PM] (4557) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-25 18:08:25.223 [info] [Info  - 6:08:25 PM] (4557) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-25 18:08:26.846 [info] [Info  - 6:08:26 PM] (4557) Assuming Python version 3.10.12.final.0
+2024-04-25 18:08:28.982 [info] [Info  - 6:08:28 PM] (4557) No source files found.
+2024-04-25 18:08:30.021 [info] [Info  - 6:08:30 PM] (4557) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-25 18:08:30.025 [info] [Info  - 6:08:30 PM] (4557) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-25 18:08:30.837 [info] [Info  - 6:08:30 PM] (4557) Assuming Python version 3.10.12.final.0
+2024-04-25 18:08:32.434 [info] [Info  - 6:08:32 PM] (4557) No source files found.
+2024-04-25 18:08:35.138 [info] [Info  - 6:08:35 PM] (4557) [FG] Long operation: parsing: file:///home/qaishamd2/lab%20network/modified_server.py (2468ms)
+2024-04-25 18:08:38.270 [info] [Info  - 6:08:38 PM] (4557) [FG] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (3006ms)
+2024-04-25 18:08:43.091 [info] [Info  - 6:08:43 PM] (4557) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-25 18:08:43.188 [info] [Info  - 6:08:43 PM] (4557) Background analysis(1) started
+2024-04-25 18:08:49.610 [info] [Info  - 6:08:49 PM] (4557) [BG(1)] Long operation: parsing: file:///home/qaishamd2/lab%20network/modified_server.py (4728ms)
+2024-04-25 18:08:51.627 [info] [Info  - 6:08:51 PM] (4557) [BG(1)] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (2012ms)
+2024-04-25 18:08:58.257 [info] [Info  - 6:08:58 PM] (4557) [BG(1)] Long operation: SemanticTokens range 0:0 - 17:48 at file:///home/qaishamd2/lab%20network/modified_server.py (13372ms)
+2024-04-25 18:09:01.134 [info] [Info  - 6:09:01 PM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/modified_server.py (2852ms)
+2024-04-25 18:09:01.134 [info] [Info  - 6:09:01 PM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/modified_server.py (2870ms)
+2024-04-25 18:24:47.117 [info] [Info  - 6:24:47 PM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/pyhttpserver.py (4200ms)
+2024-04-25 18:24:47.119 [info] [Info  - 6:24:47 PM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/pyhttpserver.py (4526ms)
+2024-04-25 18:50:10.141 [info] [Info  - 6:50:10 PM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201%20/pybrowser.py (3926ms)
+2024-04-25 18:50:10.153 [info] [Info  - 6:50:10 PM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201%20/pybrowser.py (6879ms)
+2024-04-25 19:04:46.176 [info] [Info  - 7:04:46 PM] (4557) [BG(1)] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (2066ms)
+2024-04-25 19:04:50.378 [info] [Info  - 7:04:50 PM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (3708ms)
+2024-04-25 19:04:50.428 [info] [Info  - 7:04:50 PM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (7454ms)
+2024-04-25 19:04:53.481 [info] [Info  - 7:04:53 PM] (4557) [BG(1)] Long operation: SemanticTokens full at file:///home/qaishamd2/project%201/pybrowser.py (2833ms)
+2024-04-26 10:21:24.598 [info] [Info  - 10:21:24 AM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (5496ms)
+2024-04-26 10:21:24.610 [info] [Info  - 10:21:24 AM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (6217ms)
+2024-04-26 10:32:57.427 [info] [Info  - 10:32:57 AM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (3088ms)
+2024-04-26 10:32:57.450 [info] [Info  - 10:32:57 AM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (3575ms)
+2024-04-26 10:56:47.908 [info] [Info  - 10:56:47 AM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (2492ms)
+2024-04-26 10:56:47.912 [info] [Info  - 10:56:47 AM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (3251ms)
+2024-04-26 11:17:19.784 [info] [Info  - 11:17:19 AM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (3974ms)
+2024-04-26 11:17:19.811 [info] [Info  - 11:17:19 AM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (4249ms)
+2024-04-26 11:19:19.435 [info] [Info  - 11:19:19 AM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (2808ms)
+2024-04-26 11:19:19.436 [info] [Info  - 11:19:19 AM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (2860ms)
+2024-04-26 11:44:18.116 [info] [Info  - 11:44:18 AM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (5257ms)
+2024-04-26 11:44:18.170 [info] [Info  - 11:44:18 AM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (5916ms)
+2024-04-26 15:30:22.635 [info] [Info  - 3:30:22 PM] (4557) [BG(1)] Long operation: checking: file:///home/qaishamd2/project%201/pybrowser.py (4247ms)
+2024-04-26 15:30:22.653 [info] [Info  - 3:30:22 PM] (4557) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/project%201/pybrowser.py (5173ms)

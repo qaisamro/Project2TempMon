@@ -1,0 +1,6 @@
+2024-04-25 17:58:46.723 [info] update#setState idle
+2024-04-25 17:59:16.793 [info] update#setState checking for updates
+2024-04-25 17:59:16.803 [info] update#setState idle
+2024-04-25 18:00:38.609 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-25 18:07:00.066 [info] Extension host with pid 3882 exited with code: 0, signal: unknown.
+2024-04-25 18:07:00.121 [info] Extension host with pid 3763 exited with code: 0, signal: unknown.

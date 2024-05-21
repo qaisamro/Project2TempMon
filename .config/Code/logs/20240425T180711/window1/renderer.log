@@ -1,0 +1,10 @@
+2024-04-25 18:07:19.275 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 70ms.
+2024-04-25 18:07:19.426 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 22ms.
+2024-04-25 18:07:25.824 [info] Started local extension host with pid 4479.
+2024-04-25 18:07:49.955 [info] Extension host (LocalProcess pid: 4479) is unresponsive.
+2024-04-25 18:07:52.437 [info] Extension host (LocalProcess pid: 4479) is responsive.
+2024-04-25 18:07:54.256 [info] Extension host (LocalProcess pid: 4479) is unresponsive.
+2024-04-25 18:08:00.982 [info] Extension host (LocalProcess pid: 4479) is responsive.
+2024-04-25 18:08:25.796 [info] [perf] Render performance baseline is 721ms
+2024-04-25 18:08:26.259 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 354ms.
+2024-04-25 18:40:47.755 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

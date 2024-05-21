@@ -1,0 +1,13 @@
+2024-04-25 18:07:45.986 [info] Experiment 'pythonaacf' is active
+2024-04-25 18:07:45.986 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-25 18:07:45.986 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-25 18:07:45.986 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-25 18:07:45.986 [info] Experiment 'pythonTestAdapter' is active
+2024-04-25 18:07:48.871 [info] Test server listening.
+2024-04-25 18:07:48.872 [info] Python interpreter path: /bin/python3
+2024-04-25 18:08:13.898 [info] Shell integration status changed, can confirm it's working.
+2024-04-25 18:08:24.038 [info] Starting Pylance language server.
+2024-04-26 10:27:17.930 [info] CreateEnv Trigger - Workspace not found for /home/qaishamd2/project 1/pybrowser.py
+2024-04-26 10:27:18.281 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/project 1/pybrowser.py"
+2024-04-26 11:03:42.427 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/project 1/pybrowser.py"
+2024-04-26 11:05:04.216 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/project 1/pybrowser.py"

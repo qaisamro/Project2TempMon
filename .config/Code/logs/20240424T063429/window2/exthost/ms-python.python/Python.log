@@ -1,0 +1,13 @@
+2024-04-24 06:37:03.038 [info] Experiment 'pythonaacf' is active
+2024-04-24 06:37:03.038 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-24 06:37:03.038 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-24 06:37:03.038 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-24 06:37:03.038 [info] Experiment 'pythonTestAdapter' is active
+2024-04-24 06:37:03.038 [info] Test server listening.
+2024-04-24 06:37:03.038 [info] Python interpreter path: /bin/python3
+2024-04-24 06:37:10.476 [info] Starting Pylance language server.
+2024-04-24 18:03:20.069 [info] CreateEnv Trigger - Workspace not found for /home/qaishamd2/lab network/client.py
+2024-04-24 18:03:21.445 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/lab network/client.py"
+2024-04-25 07:19:42.757 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/lab network/fake_server.py"
+2024-04-25 07:20:50.676 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/lab network/fake_server.py"
+2024-04-25 07:36:35.847 [info] Send text to terminal: /bin/python3 "/home/qaishamd2/lab network/modified_server.py"

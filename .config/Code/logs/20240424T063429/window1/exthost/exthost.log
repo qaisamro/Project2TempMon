@@ -1,0 +1,14 @@
+2024-04-24 06:34:40.193 [info] Extension host with pid 4967 started
+2024-04-24 06:34:40.193 [info] Skipping acquiring lock for /home/qaishamd2/.config/Code/User/workspaceStorage/3a52fd4d4d7bd62ac8b3f411e52ad7a3.
+2024-04-24 06:34:41.255 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-24 06:34:41.389 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-04-24 06:34:43.104 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-24 06:34:45.513 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-24 06:34:45.642 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-24 06:34:47.746 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-24 06:34:47.841 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-24 06:34:48.857 [info] Eager extensions activated
+2024-04-24 06:34:49.290 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 06:34:49.323 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-24 06:40:23.104 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-24 06:40:23.897 [info] Extension host with pid 4967 exiting with code 0

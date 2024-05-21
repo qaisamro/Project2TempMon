@@ -1,0 +1,24 @@
+2024-04-24 06:40:46.845 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-24 06:40:50.067 [info] [Info  - 6:40:50 AM] (5576) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-24 06:40:50.068 [info] [Info  - 6:40:50 AM] (5576) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 06:40:50.164 [info] [Info  - 6:40:50 AM] (5576) Starting service instance "<default>"
+2024-04-24 06:40:50.245 [info] [Info  - 6:40:50 AM] (5576) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-24 06:40:50.245 [info] [Info  - 6:40:50 AM] (5576) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-24 06:40:50.459 [info] [Info  - 6:40:50 AM] (5576) Assuming Python version 3.10.12.final.0
+2024-04-24 06:40:50.756 [info] [Info  - 6:40:50 AM] (5576) No source files found.
+2024-04-24 06:40:50.988 [info] [Info  - 6:40:50 AM] (5576) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-24 06:40:50.989 [info] [Info  - 6:40:50 AM] (5576) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-24 06:40:51.060 [info] [Info  - 6:40:51 AM] (5576) Assuming Python version 3.10.12.final.0
+2024-04-24 06:40:51.365 [info] [Info  - 6:40:51 AM] (5576) No source files found.
+2024-04-24 06:40:55.116 [info] [Info  - 6:40:55 AM] (5576) [FG] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/builtins.pyi (3307ms)
+2024-04-24 06:40:56.196 [info] [Info  - 6:40:56 AM] (5576) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 06:40:56.207 [info] [Info  - 6:40:56 AM] (5576) Background analysis(1) started
+2024-04-24 06:41:00.676 [info] [Info  - 6:41:00 AM] (5576) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/server.py (3702ms)
+2024-04-24 19:07:09.922 [info] [Info  - 7:07:09 PM] (5576) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/server.py (2570ms)
+2024-04-25 07:02:53.478 [info] [Info  - 7:02:53 AM] (5576) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/client.py (4893ms)
+2024-04-25 07:02:53.491 [info] [Info  - 7:02:53 AM] (5576) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/client.py (5554ms)
+2024-04-25 07:38:59.946 [info] [Info  - 7:38:59 AM] (5576) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/client.py (3228ms)
+2024-04-25 07:38:59.965 [info] [Info  - 7:38:59 AM] (5576) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/client.py (4142ms)
+2024-04-25 17:46:39.307 [info] [Info  - 5:46:39 PM] (5576) [FG] Long operation: parsing: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist/typeshed-fallback/stdlib/tkinter/__init__.pyi (3071ms)
+2024-04-25 17:46:42.632 [info] [Info  - 5:46:42 PM] (5576) [BG(1)] Long operation: checking: file:///home/qaishamd2/lab%20network/pybrowser.py (7350ms)
+2024-04-25 17:46:42.633 [info] [Info  - 5:46:42 PM] (5576) [BG(1)] Long operation: analyzing: file:///home/qaishamd2/lab%20network/pybrowser.py (7651ms)

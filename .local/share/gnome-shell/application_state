@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" score="53" last-seen="1713954381"/>
+    <application id="gnome-language-selector.desktop" score="74" last-seen="1713952699"/>
+    <application id="org.gnome.tweaks.desktop" score="31" last-seen="1713954494"/>
+    <application id="org.gnome.eog.desktop" score="35" last-seen="1714160182"/>
+    <application id="gkbd-keyboard-display.desktop" score="0" last-seen="1713954514"/>
+    <application id="firefox_firefox.desktop" score="7224" last-seen="1714160854"/>
+    <application id="gnome-initial-setup.desktop" score="2" last-seen="1713873076"/>
+    <application id="code_code.desktop" score="8689" last-seen="1714160191"/>
+    <application id="org.gnome.Terminal.desktop" score="13434" last-seen="1714160849"/>
+    <application id="org.gnome.Nautilus.desktop" score="48" last-seen="1714160822"/>
+    <application id="snap-store_ubuntu-software.desktop" score="195" last-seen="1713876739"/>
+    <application id="yelp.desktop" score="0" last-seen="1714159305"/>
+    <application id="update-manager.desktop" score="35" last-seen="1713953161"/>
+    <application id="simple-scan.desktop" score="1" last-seen="1713878048"/>
+    <application id="org.gnome.gedit.desktop" score="6" last-seen="1714045126"/>
+  </context>
+</application-state>

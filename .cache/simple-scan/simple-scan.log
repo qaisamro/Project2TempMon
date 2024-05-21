@@ -1,0 +1,19 @@
+[+0.00s] DEBUG: simple-scan.vala:2015: Starting simple-scan 42.0, PID=41071
+[+0.00s] DEBUG: unsetenv() is not thread-safe and should not be used after threads are created
+[+0.34s] DEBUG: Trying to initialize portal
+[+1.10s] DEBUG: app-window.vala:1975: Loading state from /home/qaishamd2/.config/simple-scan/state
+[+1.10s] WARNING: scanner.vala:1740: Unknown ScanType: . Please report this error.
+[+1.10s] DEBUG: app-window.vala:1954: Restoring window to 600x400 pixels
+[+1.16s] DEBUG: scanner.vala:1620: sane_init () -> SANE_STATUS_GOOD
+[+1.16s] DEBUG: scanner.vala:1626: SANE version 1.1.1
+[+1.16s] DEBUG: scanner.vala:1687: Requesting redetection of scan devices
+[+1.16s] DEBUG: scanner.vala:863: Processing request
+[+1.33s] DEBUG: app-window.vala:2051: Saving state to /home/qaishamd2/.config/simple-scan/state
+[+1.58s] DEBUG: app-window.vala:2051: Saving state to /home/qaishamd2/.config/simple-scan/state
+[+6.32s] DEBUG: autosave-manager.vala:201: Deleting autosave records
+[+6.32s] WARNING: autosave-manager.vala:214: Failed to delete autosaves: Error opening directory “/home/qaishamd2/.cache/simple-scan/autosaves”: No such file or directory
+[+6.33s] DEBUG: scanner.vala:1808: Stopping scan thread
+[+12.02s] DEBUG: scanner.vala:348: sane_get_devices () -> SANE_STATUS_GOOD
+[+12.02s] DEBUG: scanner.vala:863: Processing request
+[+12.05s] DEBUG: scanner.vala:1819: sane_exit ()
+[+12.06s] CRITICAL: app_window_set_scan_devices: assertion 'self != NULL' failed

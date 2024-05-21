@@ -1,0 +1,26 @@
+2024-04-23 08:52:35.719 [info] update#setState idle
+2024-04-23 08:53:04.471 [info] update#setState checking for updates
+2024-04-23 08:53:04.483 [info] update#setState idle
+2024-04-23 08:53:20.252 [info] Extension host with pid 40622 exited with code: 0, signal: unknown.
+2024-04-23 09:53:04.515 [info] update#setState checking for updates
+2024-04-23 09:53:04.596 [info] update#setState idle
+2024-04-23 10:00:59.602 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-23 10:51:59.036 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-23 10:52:10.014 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-23 11:42:34.378 [info] update#setState checking for updates
+2024-04-23 11:42:34.395 [info] update#setState idle
+2024-04-23 13:49:47.726 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-23 13:52:40.825 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-23 14:13:03.248 [info] update#setState checking for updates
+2024-04-23 14:13:03.261 [info] update#setState idle
+2024-04-23 15:45:11.454 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-23 16:41:36.159 [info] update#setState checking for updates
+2024-04-23 16:41:36.164 [info] update#setState idle
+2024-04-23 17:41:36.165 [info] update#setState checking for updates
+2024-04-23 17:41:36.177 [info] update#setState idle
+2024-04-23 18:41:36.174 [info] update#setState checking for updates
+2024-04-23 18:41:36.187 [info] update#setState idle
+2024-04-24 05:27:41.105 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-24 05:38:47.034 [info] update#setState checking for updates
+2024-04-24 05:38:53.080 [warning] No ptyHost heartbeat after 6 seconds
+2024-04-24 05:38:53.579 [info] update#setState idle

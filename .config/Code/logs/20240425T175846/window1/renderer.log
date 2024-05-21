@@ -1,0 +1,22 @@
+2024-04-25 17:59:17.338 [warning] Creation of workbench contribution 'workbench.contrib.navigableContainerManager' took 36ms.
+2024-04-25 17:59:17.648 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 21ms.
+2024-04-25 17:59:17.810 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 237ms.
+2024-04-25 17:59:17.960 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 79ms.
+2024-04-25 17:59:17.984 [warning] Creation of workbench contribution 'workbench.contrib.searchEditor' took 55ms.
+2024-04-25 17:59:18.168 [warning] Creation of workbench contribution 'workbench.contrib.localTerminalBackend' took 76ms.
+2024-04-25 17:59:18.349 [warning] Creation of workbench contribution 'workbench.contrib.notebook' took 112ms.
+2024-04-25 17:59:18.709 [warning] Creation of workbench contribution 'workbench.contrib.cellContentProvider' took 47ms.
+2024-04-25 17:59:18.905 [warning] Creation of workbench contribution 'workbench.contrib.cellInfoContentProvider' took 42ms.
+2024-04-25 17:59:19.000 [warning] Creation of workbench contribution 'workbench.contrib.registerCellSchemas' took 59ms.
+2024-04-25 17:59:19.042 [warning] Creation of workbench contribution 'workbench.contrib.textMateTokenizationInstantiator' took 170ms.
+2024-04-25 17:59:19.383 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 228ms.
+2024-04-25 17:59:19.936 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 441ms.
+2024-04-25 17:59:19.939 [warning] Creation of workbench contribution 'workbench.contrib.accessibilityStatus' took 48ms.
+2024-04-25 17:59:20.391 [warning] Creation of workbench contribution 'workbench.contrib.localHistoryTimeline' took 145ms.
+2024-04-25 17:59:20.508 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 159ms.
+2024-04-25 17:59:20.579 [warning] Creation of workbench contribution 'workbench.contrib.tunnelFactory' took 48ms.
+2024-04-25 17:59:33.295 [info] Started local extension host with pid 3882.
+2024-04-25 18:00:15.744 [info] Extension host (LocalProcess pid: 3882) is unresponsive.
+2024-04-25 18:00:22.221 [info] Extension host (LocalProcess pid: 3882) is responsive.
+2024-04-25 18:00:42.953 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 307ms.
+2024-04-25 18:00:42.954 [info] [perf] Render performance baseline is 956ms

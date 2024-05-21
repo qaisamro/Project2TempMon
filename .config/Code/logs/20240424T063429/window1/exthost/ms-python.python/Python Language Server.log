@@ -1,0 +1,17 @@
+2024-04-24 06:34:50.384 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-24 06:34:52.428 [info] [Info  - 6:34:52 AM] (5046) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-24 06:34:52.436 [info] [Info  - 6:34:52 AM] (5046) Server root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 06:34:52.436 [info] [Info  - 6:34:52 AM] (5046) Starting service instance "lab network"
+2024-04-24 06:34:52.587 [info] [Info  - 6:34:52 AM] (5046) Setting pythonPath for service "lab network": "/bin/python3"
+2024-04-24 06:34:52.588 [info] [Info  - 6:34:52 AM] (5046) Setting environmentName for service "lab network": "3.10.12 (global)"
+2024-04-24 06:34:52.803 [info] [Info  - 6:34:52 AM] (5046) Assuming Python version 3.10.12.final.0
+2024-04-24 06:34:53.418 [info] [Info  - 6:34:53 AM] (5046) Found 2 source files
+2024-04-24 06:34:57.327 [info] [Info  - 6:34:57 AM] (5046) Background analysis(1) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-24 06:34:57.366 [info] [Info  - 6:34:57 AM] (5046) Background analysis(1) started
+2024-04-24 06:34:59.674 [info] [Info  - 6:34:59 AM] (5046) Indexer background runner(2) root directory: file:///home/qaishamd2/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-24 06:34:59.674 [info] [Info  - 6:34:59 AM] (5046) Indexing(2) started
+2024-04-24 06:35:01.280 [info] [Info  - 6:35:01 AM] (5046) [BG(1)] Long operation: SemanticTokens range 0:0 - 13:57 at file:///home/qaishamd2/lab%20network/client.py (3284ms)
+2024-04-24 06:35:02.816 [info] [Info  - 6:35:02 AM] (5046) [IDX(2)] Long operation: scan packages file:///home/qaishamd2/lab%20network (3103ms)
+2024-04-24 06:35:02.817 [info] [Info  - 6:35:02 AM] (5046) scanned(2) 96 files over 1 exec env
+2024-04-24 06:35:05.023 [info] [Info  - 6:35:05 AM] (5046) indexed(2) 46 files over 1 exec env
+2024-04-24 06:35:05.235 [info] [Info  - 6:35:05 AM] (5046) Indexing finished(2).
